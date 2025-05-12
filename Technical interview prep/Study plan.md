@@ -1,4 +1,4 @@
-Topics
+## Topics
 *Linear Data Structure Patterns:* 
   1. Two Pointers
   2. Sliding Window
@@ -19,7 +19,7 @@ Other:
 15. Learn to ask questions and think aloud
 16. attempt medium questions
 
-Study plan:
-- Become familiar with implementations
+## Study plan:
+- ~~Become familiar with implementations
 - Learn 2 patterns a day + practice a previous pattern in interview style
 -
