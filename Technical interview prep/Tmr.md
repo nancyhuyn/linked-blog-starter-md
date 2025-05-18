@@ -10,18 +10,18 @@ Finish binary search
 - [x] binary tree: 1 hr
 
 #### Day 2
-- [ ] BFS: 30 min
-- [ ] DFS: 30 min
-- [ ] Hashmap 2 problems: 30 min
+- [x] BFS: 30 min
+- [x] DFS: 30 min
+- [x] Hashmap 2 problems: 30 min
 
 #### Day 3
-- [ ] Prefix sum x 2 problems : 30 min
-- [ ] fast and slow pointers: 30 min
-- [ ] BST
+- [x] Prefix sum x 2 problems : 30 min
+- [ ] ~~fast and slow pointers: 30 min~~ linked list
+- [x] BST
 - [ ] stack: 1 hr
 #### Day 4
 - [ ] intervals : 40 min
-- [ ] queues: 30 min
+- [ ] ~~queues: 30 min
 - [ ] heaps
 
 - [ ] sorting
