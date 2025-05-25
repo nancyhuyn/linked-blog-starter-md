@@ -21,7 +21,9 @@ Finish binary search
 - [ ] stack: 1 hr
 #### Day 4
 - [ ] intervals : 40 min
+- [ ] graphs
 - [ ] ~~queues: 30 min
-- [ ] heaps
+- [ ] ~~heaps
 
-- [ ] sorting
+- [x] implement merge, quick, insertion and bucket sort
+- [ ] 

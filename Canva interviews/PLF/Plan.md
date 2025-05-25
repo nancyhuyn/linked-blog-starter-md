@@ -1,0 +1,20 @@
+- [ ] JS (dom manipulation, events)
+- [ ] DOM
+- [ ] Async, promises
+- [ ] promise.all
+- [ ] hwo you would serialize instead if ut
+- [ ] CSS (position, layout, trabsfirns)
+- [ ] Hwow to optimise rendering (virtualisation, canvas)
+- [ ] settimeout, set interval
+- [ ] date
+- [ ] fetch
+- [ ] this
+- [ ] ecommerce website
+- [ ] game
+- [ ] react compoenent design
+- [ ] sudoku
+- [ ] object manip
+- [ ] js object with data in gist, render it?
+- [ ] build kahoot ui
+- [ ] calculator app
+- [ ] 1000 http request fro singel client to BE as quicklya s possibel and problems
